@@ -1,6 +1,6 @@
 # Navegacio
 ---
-Branca Master: Pantalla Pricipal amb els components i les llibreries intal·lades.
+Branca **Master**: Pantalla Pricipal amb els components i les llibreries intal·lades.
 * LLibreries **instal·lades** en este projecte*:
 * react-native-reanimated 
 * react-native-gesture-handler 
@@ -8,6 +8,6 @@ Branca Master: Pantalla Pricipal amb els components i les llibreries intal·lade
 * react-native-safe-area-context 
 * @react-native-community/masked-view
 
-he tingut que instal·lar manualment la llibreria **@react-navigation/native**
+#### he tingut que instal·lar manualment la llibreria **@react-navigation/native**
 ---
-Branca StackNavigation: Exemple de com navegar entre pantalles, i com passar paràmetres entre pantalles
+Branca **StackNavigation**: Exemple de com navegar entre pantalles, i com passar paràmetres entre pantalles
